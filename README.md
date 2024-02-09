@@ -41,5 +41,12 @@ Le seguenti sono le rotte disponibili per l'utilizzo delle API:
 ## Contribuire
 Le pull request sono benvenute. Per modifiche importanti, ti preghiamo di aprire prima un ticket per discutere delle modifiche proposte.
 
+## Autori
+- Claudio Maldera
+
+## Contatti
+Per qualsiasi domanda o feedback, contattami all'indirizzo email: maldera.claudio@gmail.com
+
+
 ## Licenza
 Questo progetto è sotto licenza MIT. Per ulteriori informazioni, consulta il file [LICENSE](LICENSE).
